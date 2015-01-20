@@ -4,7 +4,7 @@ Diccionaris catalans per a generar contrasenyes Diceware.
 
 variants
 --------
-* ```cat-wordlist-utf8.txt```: Conté mots amb accents, dièresis, ces trencades, etc. **Versió recomanada.**
+* ```cat-wordlist-utf8.txt```: **Versió recomanada.** Conté mots amb accents, dièresis, ces trencades, etc.
 
 > horaci 7è rengló urpa reformen jutgessa
 
