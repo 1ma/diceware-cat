@@ -4,12 +4,13 @@ Diccionaris catalans per a generar contrasenyes Diceware.
 
 variants
 --------
-
 * ```cat-wordlist-utf8.txt```: Conté mots amb accents, dièresis, ces trencades, etc. **Versió recomanada.**
-> horari 7è rengló urpa reforç jutgeu
+
+> horaci 7è rengló urpa reformen jutgessa
 
 * ```cat-wordlist-ascii.txt```: Conté mots formats únicament per caràcters ASCII. Produeix contrasenyes compatibles amb sistemes prehistòrics.
-> xec ventre distret qui guerxo rajoleta
+
+> xafes ventat dividir qui guenyo radicar
 
 guia d'ús/referències
 ---------------------
