@@ -1,0 +1,21 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[catalan]{babel}
+\usepackage{verbatim}
+\usepackage{multicol}
+\usepackage[letterpaper, portrait, margin=0.5in]{geometry}
+
+\title{Diceware-cat: diccionaris catalans per a generar contrasenyes Diceware.}
+\author{Marcel Hernandez}
+
+\begin{document}
+
+\maketitle
+
+\begin{multicols}{4}
+  \verbatiminput{wordlist.txt}
+\end{multicols}
+
+
+\end{document}
