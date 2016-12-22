@@ -4,11 +4,11 @@ Diccionaris catalans per a generar contrasenyes Diceware.
 
 variants
 --------
-* ```cat-wordlist-utf8.txt```: **Versió recomanada.** Conté mots amb accents, dièresis, ces trencades, etc.
+* ```cat-wordlist-utf8.txt|pdf```: **Versió recomanada.** Conté mots amb accents, dièresis, ces trencades, etc.
 
 > horaci 7è rengló urpa reformen jutgessa
 
-* ```cat-wordlist-ascii.txt```: Conté mots formats únicament per caràcters ASCII. Produeix contrasenyes compatibles amb sistemes prehistòrics.
+* ```cat-wordlist-ascii.txt|pdf```: Conté mots formats únicament per caràcters ASCII. Produeix contrasenyes compatibles amb sistemes prehistòrics.
 
 > xafes ventat dividir qui guenyo radicar
 
@@ -21,6 +21,8 @@ En català ara també podeu llegir [diceware.cat](http://diceware.cat/), un proj
 agraïments
 ----------
 A [Arnold "agr" Reinhold](http://world.std.com/~reinhold/), inventor del mètode Diceware.
+
+A [Jaume "ZJaume" Zaragoza](https://github.com/ZJaume), per contribuïr la versió PDF de les llistes.
 
 llicència
 ---------
