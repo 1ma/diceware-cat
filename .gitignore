@@ -204,8 +204,11 @@ TSWLatexianTemp*
 # KBibTeX
 *~[0-9]*
 
-# auto folder when using emacs and auctex 
+# auto folder when using emacs and auctex
 /auto/*
 
 # expex forward references with \gathertags
 *-tags.tex
+
+.kdev4/
+*.kdev4
