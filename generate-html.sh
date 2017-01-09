@@ -56,7 +56,7 @@ EOF
     </tbody>
   </table>
 </body>
-</html>"
+</html>
 EOF
 }
 
